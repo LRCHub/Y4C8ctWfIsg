@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "一輪花 - Ichirinka",
+  "base_artist": "tuki.",
+  "createdAt": "2025-12-19T08:48:36.507860Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "一輪花",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/01_一輪花_tuki..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "一輪花 - Ichirinka",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/02_一輪花_-_Ichirinka_tuki..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "一輪花 - Ichirinka",
+      "artist": "tuki.",
+      "has_synced": false,
+      "path": "select/03_一輪花_-_Ichirinka_tuki..txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "一輪花 - Ichirinka (Paused)",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/04_一輪花_-_Ichirinka_(Paused)_tuki..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一輪花",
+      "artist": "tuki.",
+      "has_synced": false,
+      "path": "select/pl_01_一輪花_tuki..txt"
+    }
+  ]
+}
